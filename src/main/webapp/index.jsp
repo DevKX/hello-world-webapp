@@ -1,7 +1,6 @@
 <html>
   <head><title>Hello App</title></head>
   <body>
-    <h1>Hello JSP Page</h1>
-    <a href="hello">Say Hello via Servlet</a>
+    <h1>Hello Future DSO Engineer!</h1>
   </body>
 </html>
